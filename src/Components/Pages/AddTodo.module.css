@@ -1,0 +1,19 @@
+.container {
+  margin: 15px 30% 0 30%;
+  min-height: 100vh;
+}
+
+.formControl {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid #333333;
+  padding: 5px 15px;
+}
+.formContainer {
+  margin: 10px 20% 10px 20%;
+}
+.BtnAdd {
+  margin: 15px 0 0 0;
+  color: green;
+}
